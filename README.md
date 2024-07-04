@@ -43,7 +43,7 @@ This project is a simple and responsive CRUD (Create, Read, Update, Delete) tabl
 
 You can view the live demo of this project on GitHub Pages:
 
-[Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/)
+[Live Demo](https://hrishikeshdevdikar19.github.io/CRUD-Table/)
 
 
 
