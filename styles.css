@@ -1,0 +1,10 @@
+body {
+    background-color: #f8f9fa;
+}
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+.table .btn {
+    margin-right: 5px;
+}
